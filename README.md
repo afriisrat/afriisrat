@@ -1,27 +1,28 @@
 #### Digital Marketing Manager | Social Media Specialist
-![Digital Marketing Manager | Social Media Specialist](https://pbs.twimg.com/profile_banners/1950953075407212545/1762148372/600x200)
+![Digital Marketing Banner](https://pbs.twimg.com/profile_banners/1950953075407212545/1762148372/600x200)
 
-### Hi there 👋, I'm Israt Jahan Afri
+### Hi! I'm Israt Jahan Afri
 
 🚀 **About Me**  
-Hi! I’m a Digital Marketer & Social Media Specialist passionate about creating data-driven campaigns and building engaging online communities.
+I’m a Digital Marketer & Social Media Specialist passionate about creating data-driven campaigns and building engaging online communities. My goal is to grow brands online, increase traffic, and maximize ROI through smart marketing strategies.
 
 💡 **What I do:**  
 - Develop and execute digital marketing strategies  
 - Manage social media platforms & grow brand presence  
 - Analyze metrics to optimize campaigns and improve ROI  
-- Experiment with SEO, content marketing, and paid ads
+- Experiment with SEO, content marketing, and paid ads  
+- Branding & online visibility improvement
 
 🚀 **Always exploring:**  
 Marketing automation tools, analytics dashboards, and innovative ways to connect brands with their audiences.
 
 **Skills:**  
-✅ WordPress / PHP  
-✅ JavaScript (JS)  
-✅ HTML5 / CSS3 / SASS / Bootstrap  
-✅ Photoshop / Illustrator  
-
-- 🔭 I’m currently working on this page.
+✅ SEO & Analytics  
+✅ Social Media Marketing  
+✅ Content Marketing  
+✅ Paid Ads / PPC  
+✅ Branding & Digital Strategy  
+✅ Marketing Tools & Automation (Canva, Photoshop, Mailchimp, HubSpot)
 
 ---
 
@@ -29,9 +30,11 @@ Marketing automation tools, analytics dashboards, and innovative ways to connect
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/afriisrat)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/afriisrat/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=61579085330744)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/afriisrat)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/afriisrat/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://x.com/AfriIsrat)
+
+📧 **Email for Business:** afriisrat3@gmail.com
 
 ---
 
@@ -42,4 +45,5 @@ Marketing automation tools, analytics dashboards, and innovative ways to connect
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afriisrat&show_icons=true&count_private=true)  
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/afriisrat/contributions?format=svg&private=true)  
 ![GitHub metrics](https://metrics.lecoq.io/afriisrat)
+
 
